@@ -1,11 +1,11 @@
 <h1 align="center">Olá! 👋, Eu sou Welington Moraes</h1>
 <h3 align="center">Estudante de Farmácia apaixonado pela programação</h3>
 
-- 🔭 Atualmente estou trabalhando em aprender **Python**
+- 🔭 Atualmente estou trabalhando em aprender
 
-- 🌱 Atualmente estou estudando **Python com foco em bioinformática**
+- 🌱 Estudando **Python com foco em bioinformática**
 
-- 💬 Me pergunte sobre **Farmacos, interações medicamentosas o maximo que sei responder (por enquanto)**
+- 💬 Me pergunte sobre **Farmacos, interações medicamentosas o máximo que sei responder (por enquanto)**
 
 - 📫 Meu E-mail é **ferw1@tuta.io**
 
